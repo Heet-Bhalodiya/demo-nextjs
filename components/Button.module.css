@@ -1,0 +1,9 @@
+.error {
+    color: white;
+    background-color: rgb(0, 110, 255);
+  }
+
+.error:hover {
+    color: rgb(0, 110, 255);
+    background-color: rgb(220, 220, 220);
+}

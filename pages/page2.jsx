@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Page2 = () => {
+    return (
+        <div>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, voluptate quo! Optio a explicabo adipisci dolores quae officia possimus accusantium, voluptatum labore suscipit error quo nobis aspernatur voluptates eaque fuga, aperiam esse. Unde architecto voluptatum modi laborum harum saepe nemo, ullam, dolores commodi vel fugit repellat maxime nobis mollitia repellendus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam esse aliquam sit architecto dolores accusantium vitae dolor debitis nihil exercitationem distinctio porro minima adipisci similique eligendi quos non rem recusandae, quo atque deserunt, pariatur a iusto? Laborum numquam, officiis in eum, alias eveniet quidem doloribus adipisci dignissimos mollitia rerum harum! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa, alias velit modi consectetur, cumque rem blanditiis voluptatem sed commodi eius rerum mollitia veritatis magnam a quidem, sint neque aspernatur quas totam cum. Temporibus magni nobis commodi, unde iste cumque tempore perferendis fugit tempora exercitationem. Accusantium aliquid accusamus, asperiores nihil iste placeat excepturi a illo eligendi ad dicta eum exercitationem laudantium maiores? Aliquid, veniam consectetur temporibus laudantium accusantium, assumenda quibusdam exercitationem iure nesciunt ratione perferendis eum non suscipit neque odit labore blanditiis maxime excepturi! Recusandae velit laudantium quas laborum dolor in facere, voluptatem molestiae, molestias iure dolores ab perspiciatis. Ipsa, vitae!</div>
+    )
+}
+
+export default Page2
